@@ -1,0 +1,5 @@
+The Masters of Data Science required a capstone project.
+
+We used fishing data from the Government of Iceland to analyze trends in the Fishing Industry. 
+
+We had to sign an NDA so we can not be public about the data - though we can share are overall findings.
